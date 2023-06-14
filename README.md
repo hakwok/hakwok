@@ -1,5 +1,7 @@
+<img align="center" alt="Header" height="400" src="file:///C:/Users/hayde/Desktop/Code/websites/SweezyLatest%20Bootstrap/img/backdrop1.png">
 <h1 align="center">Hi 👋, I'm Hayden</h1>
 <h3 align="center">Computer Science @ UC San Diego</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif)">
 
 - 🔭 I’m currently working on contributing to a **personalized TradingView Machine Learning Trading Algorithm**
 
