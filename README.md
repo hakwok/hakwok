@@ -1,7 +1,28 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hayden</h1>
 <h3 align="center">Computer Science @ UC San Diego</h3>
-<img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif" alt="Coder" align="right" style="width: 400px;">
+<!--img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif" alt="Coder" align="right" style="width: 400px;"-->
+<div style="background-color: transparent;">
+  <style>
+    @keyframes flatDesignAnimation {
+      0% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-20px);
+      }
+      100% {
+        transform: translateY(0);
+      }
+    }
+    
+    .flat-design-animation {
+      animation: flatDesignAnimation 2s ease-in-out infinite;
+    }
+  </style>
+  
+  <img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif" alt="Image Description" class="flat-design-animation" style="max-width: 400px;">
+</div>
 
 - 🔭 I’m currently working on contributing to a **personalized TradingView Machine Learning Trading Algorithm**
 
