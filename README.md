@@ -2,28 +2,185 @@
 <h1 align="center">Hi 👋, I'm Hayden</h1>
 <h3 align="center">Computer Science @ UC San Diego</h3>
 <!--img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif" alt="Coder" align="right" style="width: 400px;"-->
-<div style="background-color: transparent;">
-  <style>
-    @keyframes flatDesignAnimation {
-      0% {
-        transform: translateY(0);
-      }
-      50% {
-        transform: translateY(-20px);
-      }
-      100% {
-        transform: translateY(0);
-      }
-    }
-    
-    .flat-design-animation {
-      animation: flatDesignAnimation 2s ease-in-out infinite;
-    }
-  </style>
-  
-  <img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif" alt="Image Description" class="flat-design-animation" style="max-width: 400px;">
+<div class='loader loader1'>
+  <div>
+    <div>
+      <div>
+        <div>
+          <div>
+            <div></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
+<div class='loader loader2'>
+  <div>
+    <div>
+      <div>
+        <div>
+          <div>
+            <div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class='loader loader3'>
+  <div>
+    <div>
+      <div>
+        <div>
+          <div>
+            <div></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class='loader loader4'>
+  <div>
+    <div>
+      <div>
+        <div>
+          <div>
+            <div>
+              <div>
+                <div>
+                  <div>
+                    <div></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  $grey: rgba(0, 0, 0, .5);
+  $blue: rgba(0, 0, 255, .5);
+
+  @keyframes rotate {
+    0% {
+      transform: rotate(0deg);
+    }
+    50% {
+      transform: rotate(180deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+  @keyframes rotate2 {
+    0% {
+      transform: rotate(0deg);
+      border-top-color: $grey;
+    }
+    50% {
+      transform: rotate(180deg);
+      border-top-color: $blue;
+    }
+    100% {
+      transform: rotate(360deg);
+      border-top-color: $grey;
+    }
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    background: #f9f9f9;
+    padding-bottom: 100px;
+  }
+
+  h1, h3 {
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+    font-family: 'Tahoma';
+    font-weight: lighter;
+    color: $grey;
+    letter-spacing: 1.5px;
+  }
+
+  h1 {
+    margin: 50px auto;
+  }
+
+  @mixin loaderDivMixin {
+    border-radius: 50%;
+    padding: 8px;
+    border: 2px solid transparent;
+    animation: rotate linear 3.5s infinite;
+  }
+
+  .loader {
+    position: relative;
+    margin: 75px auto;
+    width: 150px;
+    height: 150px;
+    display: block;
+    overflow: hidden;
+    div {
+      height: 100%;
+    }
+  }
+
+  /* loader 1 */
+  .loader1, .loader1 div {
+    @include loaderDivMixin;
+    border-top-color: $grey;
+    border-bottom-color: $blue;
+  }
+
+  /*loader 2  */
+  .loader2, .loader2 div {
+    @include loaderDivMixin;
+    border-top-color: $blue;
+    border-left-color: $grey;
+    border-right-color: $grey;
+  }
+
+  /*loader 3  */
+  .loader3, .loader3 div {
+    @include loaderDivMixin;
+    border-top-color: $grey;
+    border-left-color: $blue;
+    animation-timing-function: cubic-bezier(.55, .38, .21, .88);
+    animation-duration: 3s;
+  }
+
+  /* loader 4 */
+  .loader4, .loader4 div {
+    @include loaderDivMixin;
+    border-radius: 50%;
+    padding: 4px;
+    animation: rotate2 4s infinite linear;
+  }
+
+  div:hover {
+    animation-play-state: paused;
+  }
+
+  .loader, .loader * {
+    will-change: transform;
+  }
+</style>
+  
 - 🔭 I’m currently working on contributing to a **personalized TradingView Machine Learning Trading Algorithm**
 
 - 🌱 I’m currently learning **React.js & React Native**
