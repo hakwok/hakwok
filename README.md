@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hayden</h1>
 <h3 align="center">Computer Science @ UC San Diego</h3>
-<img align="right" alt="Coding" width="400" src="[![image](https://github.com/hakwok/hakwok/assets/77424165/16a30424-ef75-4277-8b24-b2a6fe4da8ab)](https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif)">
+<img align="right" alt="Coding" width="400" src="![Image Description](https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif)">
 
 - 🔭 I’m currently working on contributing to a **personalized TradingView Machine Learning Trading Algorithm**
 
