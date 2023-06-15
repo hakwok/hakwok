@@ -1,4 +1,4 @@
-<img src="https://github.com/hakwok/hakwok/assets/77424165/2e5650e8-6d4f-4f9f-a6eb-8ace40690f06" alt="backdrop1" height="200">
+<img src="https://github.com/hakwok/hakwok/assets/77424165/2e5650e8-6d4f-4f9f-a6eb-8ace40690f06" alt="backdrop1" height="200" width="auto">
 <h1 align="center">Hi 👋, I'm Hayden</h1>
 <h3 align="center">Computer Science @ UC San Diego</h3>
 <!--img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif" alt="Coder" align="right" style="width: 400px;"-->
