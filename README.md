@@ -1,7 +1,7 @@
 ![backdrop1](https://github.com/hakwok/hakwok/assets/77424165/e5bf779b-5b91-4d44-9eee-526969be1cec)
 <h1 align="center">Hi 👋, I'm Hayden</h1>
 <h3 align="center">Computer Science @ UC San Diego</h3>
-![ezgif-2-6d0b072c3d3f](https://github.com/hakwok/hakwok/assets/77424165/241d0b4f-b610-4348-85fc-d0497fe8d9b0)
+![Loading_icon](https://github.com/hakwok/hakwok/assets/77424165/abff43e6-681d-485e-b93a-ee9d2cf4ab7e)
 
 - 🔭 I’m currently working on contributing to a **personalized TradingView Machine Learning Trading Algorithm**
 
