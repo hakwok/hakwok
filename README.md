@@ -180,7 +180,8 @@ div:hover {
     </div>
   </div>
 </div>
-  
+```
+
 - 🔭 I’m currently working on contributing to a **personalized TradingView Machine Learning Trading Algorithm**
 
 - 🌱 I’m currently learning **React.js & React Native**
