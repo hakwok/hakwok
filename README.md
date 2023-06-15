@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hayden</h1>
 <h3 align="center">Computer Science @ UC San Diego</h3>
 <!--img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif" alt="Coder" align="right" style="width: 400px;"-->
+<link rel="stylesheet" href="styles.css" />
 <div class='loader loader1'>
   <div>
     <div>
