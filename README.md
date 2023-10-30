@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on contributing to a **personalized TradingView Machine Learning Trading Algorithm**
 
-- 🌱 I’m currently learning **React.js & React Native**
+- 🌱 I’m currently learning how to utilize machine learning libraries, such as **PyTorch and Tensorflow**, with **Python** and GPU programming
 
 - 👨‍💻 My personal website and portfolio: [https://www.haydenkwok.com/](https://www.haydenkwok.com/)
 
