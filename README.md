@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hayden</h1>
 <h3 align="center">Computer Science @ UC San Diego</h3>
 
-- 🔭 I’m currently working on contributing to a **personalized TradingView Machine Learning Trading Algorithm**
+- 🔭 I’m currently working on research regarding ethe evaluation of a new shader language, Slang, in its differentiable rendering capabilities.
 
 - 🌱 I’m currently learning how to utilize machine learning libraries, such as **PyTorch and Tensorflow**, with **Python** and GPU programming
 
