@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hayden</h1>
 <h3 align="center">Computer Science @ UC San Diego</h3>
 
-I specialize in harnessing big data, recommender systems, and natural language processing to transform products and software with machine learning. My research interests focus on employing adversarial/deceptive planning and strategic obfuscation within reinforcement learning agents.
+I specialize in optimizing and enhancing tangible tasks, products, and software by leveraging machine learning to drive strategic planning and improvements. My research interests focus on employing adversarial/deceptive planning and strategic obfuscation within reinforcement learning agents. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakwok&show_icons=true&locale=en&layout=compact" alt="hakwok" /></p>
